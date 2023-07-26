@@ -6,7 +6,4 @@ Here you will use AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB a
 The first time i tried this workshop i couldnt get access to requestUnicorn.js that is requested in module 3, so i included see under repo_utils/
 
 ## Screenshots
-![home](repo_utils\img\wildride.PNG)
-
-
-
+![home](wildrydes-site\repo_utils\img\wildride.PNG)
